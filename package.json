@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor/camera",
-  "version": "4.1.4",
+  "name": "com.danishin.camera",
+  "version": "1.0.0",
   "description": "The Camera API provides the ability to take a photo with the camera or choose an existing one from the photo album.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,14 +13,11 @@
     "ios/Plugin/",
     "CapacitorCamera.podspec"
   ],
-  "author": "Ionic <hi@ionicframework.com>",
+  "author": "Daniel Shin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor-plugins.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ionic-team/capacitor-plugins/issues"
+    "url": "git+https://github.com/cathypark/camera.git"
   },
   "keywords": [
     "capacitor",
